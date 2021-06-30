@@ -1,0 +1,15 @@
+.item{
+    display:flex;
+    flex-wrap:wrap;
+    width: 400px;
+        border: 2px solid;
+        border-color: black;
+        border-radius: 20px;
+        justify-content: center;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    
+}
